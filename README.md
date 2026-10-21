@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="" width="100%">
 
-# Hi there! I'm JEONG HWIWON 👋
+# Hi there! 👋
 
 **Aspiring Web Engineer | Java & Spring Boot**
 
