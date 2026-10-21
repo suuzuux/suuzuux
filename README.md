@@ -17,7 +17,7 @@ I'm now learning web development with Java and Spring Boot, working toward becom
 
 - **Learning:** Building web applications through hands-on team projects.
 - **Teamwork:** Led a web development team and coordinated progress and feature specifications.
-- **Interests:** Improving workflows and turning everyday problems into practical solutions.
+- **Hobbies:** Working out, listening to music, and meditating.
 
 <br>
 
@@ -25,25 +25,33 @@ I'm now learning web development with Java and Spring Boot, working toward becom
 
 #### Languages & Frontend
 
-![Java](https://img.shields.io/badge/Java-52565C?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-52565C?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-52565C?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-52565C?style=flat-square&logo=css&logoColor=B197FC)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 
 #### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-52565C?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-52565C?style=flat-square&logo=thymeleaf&logoColor=83B85B)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-52565C?style=flat-square&logo=spring&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-52565C?style=flat-square&logo=mysql&logoColor=5CA9D6)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-52565C?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-52565C?style=flat-square&logo=github&logoColor=B392F0)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img src="assets/languages-light.svg" alt="Most used languages: Java 44.27%, HTML 35.37%, JavaScript 8.41%, CSS 4.97%, SCSS 3.10%, TypeScript 2.05%, Python 1.62%, Ruby 0.20%" width="420">
+</picture>
 
 <br>
 
@@ -55,7 +63,7 @@ I'm now learning web development with Java and Spring Boot, working toward becom
 
 A web platform for fan communities, fan project funding, and hashtag support campaigns.
 
-**My Role — Team Leader**
+**My Role — Team Leader · Backend & Frontend Developer**
 
 - Coordinated project progress and feature specifications.
 - Developed the fan project payment functionality.
